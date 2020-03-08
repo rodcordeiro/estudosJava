@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author cordeiro
+ *
+ */
+module HelloEclipse {
+}
